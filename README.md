@@ -1,2 +1,2 @@
 Cursando Técnico em Desenvolvimento de Sistemas.
-Atividades do GPT e do Professor.
+Atividades do GPT e do Professor relacionados a POO.
